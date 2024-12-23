@@ -27,11 +27,11 @@ To get started with Shoshin-Tech, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Shoshin-Tech.git
+   git clone https://github.com/venky-1710/Shoshin-Tech-Frontend-Intern-Assessment.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Shoshin-Tech
+   cd Shoshin-Tech-Frontend-Intern-Assessment
    ```
 3. Install the dependencies:
    ```bash
