@@ -13,13 +13,13 @@ Welcome to the Shoshin-Tech project! This README will guide you through the setu
 
 ## Introduction
 
-Shoshin-Tech is a project aimed at [briefly describe the purpose of the project]. It is designed to [mention key functionalities or goals].
+Shoshin-Tech is a project aimed at providing a streamlined and efficient frontend assessment platform for aspiring developers. It is designed to evaluate and enhance frontend development skills through practical tasks and challenges.
 
 ## Features
 
-- Feature 1: [Description of feature 1]
-- Feature 2: [Description of feature 2]
-- Feature 3: [Description of feature 3]
+- Feature 1: User-friendly interface for taking assessments.
+- Feature 2: Real-time feedback on code submissions.
+- Feature 3: Comprehensive reporting and analytics on performance.
 
 ## Installation
 
@@ -44,12 +44,6 @@ To run the project using Vite with React, use the following command:
 ```bash
 npm run dev
 ```
-
-For detailed usage instructions, refer to the [documentation](link-to-documentation).
-
-## Contributing
-
-We welcome contributions! Please read our [contributing guidelines](link-to-contributing-guidelines) to get started.
 
 ## License
 
