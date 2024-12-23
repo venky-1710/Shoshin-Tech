@@ -1,0 +1,40 @@
+.application{
+  display: flex;
+  flex-direction: row ;
+}
+
+.section1{
+  width:18%;
+  height: 100vh;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+}
+.section2{
+  position: relative;
+  left: 18%;
+  padding-left: 3.5%;
+  width: 78%;
+  height: 100vh;
+}
+.nav{
+  position:sticky;
+  top: 0px;
+}
+.cont{
+  padding-bottom: 2%;
+}
+
+@media (max-width: 900px) {
+
+  .section1{
+    width: 10%;
+  }
+  .section2{
+    left: 10%;
+    width: 90%;
+    padding-left: 0;
+  }
+
+
+}
